@@ -1,0 +1,6 @@
+{
+  "name": "OmniFetch - Universal Video Downloader (YouTube, TikTok, Instagram)",
+  "description": "High-speed multi-platform video downloader for YouTube, TikTok, and Instagram. Extract full HD 1080p MP4 videos, watermark-free reels, and MP3 audio with instant link analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
